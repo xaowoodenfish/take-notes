@@ -44,16 +44,6 @@
 		#audio{
 		margin:40px 0 0 40px;
 		}
-		footer {
-		width:760px;
-		margin:163px auto;
-		background:#f0f;
-		}
-		footer p{
-		margin:0;
-		padding:10px 0;
-		text-align:center;
-		}
 	</style>
 	</head>
 	<body>
@@ -234,6 +224,5 @@
 		};
 		
 	</script>
-	<footer><p>此为潭州学院公开课Idle内容，我是听课写下来</p></footer>
 	</body>
 </html>
